@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kraken" name="[COLOR red]Kraken[/COLOR] Repository" version="1.0" provider-name="Kraken">
+<addon id="repository.kraken" name="[COLOR red]Kraken[/COLOR] Repository" version="1.0" provider-name="DrPicklerick">
 	<extension point="xbmc.addon.repository" name="Kraken Repo">
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/DrPicklerick/zips/master/addons.xml</info>
