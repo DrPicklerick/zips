@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="context.trailer.mod" name="Play Trailer Mod" version="1.0.7" provider-name="DrPicklerick">
+<addon id="context.trailer.mod" name="Play Trailer Mod" version="1.0.7" provider-name="drpicklerick">
 	<requires>
 		<import addon="script.module.requests" version="2.19.1" />
 		<import addon="plugin.video.youtube" version="6.2.0" />
@@ -31,8 +31,8 @@
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<forum></forum>
-		<website>https://github.com/DrPicklerick/context.trailer.mod</website>
-		<source>https://github.com/DrPicklerick/context.trailer.mod</source>
+		<website>https://github.com/drpicklerick/context.trailer.mod</website>
+		<source>https://github.com/drpicklerick/context.trailer.mod</source>
 		<disclaimer lang="en"></disclaimer>
 		<assets>
 			<icon>icon.png</icon>
@@ -46,7 +46,7 @@ v0.1.0.7
 	</extension>
 </addon>
 
-<addon id="context.kraken" name="Kraken - Global Context Menu Items" provider-name="DrPicklerick" version="1.0.0">
+<addon id="context.kraken" name="Kraken - Global Context Menu Items" provider-name="drpicklerick" version="1.0.0">
 	<requires>
 		<import addon="script.module.requests" version="2.19.1" />
 	</requires>
@@ -166,8 +166,8 @@ v0.1.0.7
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<forum></forum>
-		<website>https://github.com/DrPicklerick/context.kraken</website>
-		<source>https://github.com/DrPicklerick/context.kraken</source>
+		<website>https://github.com/drpicklerick/context.kraken</website>
+		<source>https://github.com/drpicklerick/context.kraken</source>
 		<disclaimer lang="en"></disclaimer>
 		<assets>
 			<icon>icon.png</icon>
@@ -181,7 +181,7 @@ v0.1.0.7
 	</extension>
 </addon>
 
-<addon id="plugin.video.kraken" name="[COLOR red]Kraken[/COLOR]" provider-name="DrPicklerick" version="4.4.3">
+<addon id="plugin.video.kraken" name="[COLOR red]Kraken[/COLOR]" provider-name="drpicklerick" version="4.4.3">
 	<requires>
 		<import addon="context.kraken" />
 		<import addon="script.module.myaccounts" />
@@ -204,8 +204,8 @@ v0.1.0.7
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<forum />
-		<website>https://github.com/DrPicklerick/plugin.video.kraken</website>
-		<source>https://github.com/DrPicklerick/plugin.video.kraken</source>
+		<website>https://github.com/drpicklerick/plugin.video.kraken</website>
+		<source>https://github.com/drpicklerick/plugin.video.kraken</source>
 		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
 		<assets>
 			<icon>icon.png</icon>
@@ -242,20 +242,20 @@ v0.1.0.7
 <addon id="repository.kraken" name="[COLOR red]Kraken[/COLOR] Repository" version="1.16" provider-name="Kraken">
 	<extension point="xbmc.addon.repository" name="Kraken Repo">
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/DrPicklerick/zips/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/DrPicklerick/zips/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/DrPicklerick/zips/master/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/drpicklerick/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/drpicklerick/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/drpicklerick/zips/master/</datadir>
 		</dir>
 
 		<dir minversion="18.0" maxversion="18.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/DrPicklerick/repository.metahandler/main/leia/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/DrPicklerick/repository.metahandler/main/leia/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/DrPicklerick/repository.metahandler/main/leia/zips/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/drpicklerick/repository.metahandler/main/leia/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/drpicklerick/repository.metahandler/main/leia/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/drpicklerick/repository.metahandler/main/leia/zips/</datadir>
 		</dir>
 		<dir minversion="18.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/DrPicklerick/repository.metahandler/main/matrix/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/DrPicklerick/repository.metahandler/main/matrix/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/DrPicklerick/repository.metahandler/main/matrix/zips/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/drpicklerick/repository.metahandler/main/matrix/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/drpicklerick/repository.metahandler/main/matrix/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/drpicklerick/repository.metahandler/main/matrix/zips/</datadir>
 		</dir>
 
 		<dir>
